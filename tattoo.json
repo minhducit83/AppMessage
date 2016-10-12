@@ -1,6 +1,6 @@
 {
-	"package" : "devvn.project.womanday.imageframe",
-	"message" : "Flower Romantic Photo Frames is free app allow add romantic frames,edit to your favorite photos. Do you want try it now?",
-	"title" : "Romantic Flower Photo Frame",
-	"key" : "flowerfame"
+	"package" : "com.project.devvn.mybirthdaygreetingcard",
+	"message" : "Greeting Cards Maker is free app allow you can create your own custom greeting cards and sharing with your friendship. Do you want try it now?",
+	"title" : "Greeting Cards Maker",
+	"key" : "greetingcards"
 }
