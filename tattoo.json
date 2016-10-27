@@ -1,6 +1,6 @@
 {
-	"package" : "com.project.devvn.mybirthdaygreetingcard",
-	"message" : "Greeting Cards Maker is free app allow you can create your own custom greeting cards and sharing with your friendship. Do you want try it now?",
-	"title" : "Greeting Cards Maker",
-	"key" : "greetingcards"
+	"package" : "com.project.devvn.happybirthdayphotoframe",
+	"message" : "Birthday Photo Frame is free app allow you can create your own custom greeting cards and sharing with your friendship. Do you want try it now?",
+	"title" : "Happy Birthday Photo Frame",
+	"key" : "birthdaygreetingcards"
 }
