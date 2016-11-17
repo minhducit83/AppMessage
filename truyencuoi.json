@@ -1,6 +1,6 @@
 {
-	"package" : "com.project.devvn.mybirthdaygreetingcard",
+	"package" : "com.project.devvn.happybirthdayphotoframe",
 	"message" : "Ứng dụng cho phép bạn tạo các thiệp chúc mang tính cách của riêng bạn và gửi tặng bạn bè. Bạn có muốn dùng thử ?",
 	"title" : "Greeting Cards Maker",
-	"key" : "greetingcards"
+	"key" : "greetingcards1"
 }
