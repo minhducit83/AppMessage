@@ -1,6 +1,6 @@
 {
-	"package" : "com.project.devvn.happybirthdayphotoframe",
-	"message" : "Ứng dụng cho phép bạn tạo các thiệp chúc mang tính cách của riêng bạn và gửi tặng bạn bè. Bạn có muốn dùng thử ?",
-	"title" : "Greeting Cards Maker",
-	"key" : "greetingcards1"
+	"package" : "dev4wife.project.calendarmaker",
+	"message" : "Ứng dụng cho phép bạn tạo và tự trang trí lịch để bàn mang tính cách của riêng bạn và gửi tặng bạn bè. Bạn có muốn dùng thử ?",
+	"title" : "Tạo lịch cá nhân",
+	"key" : "createcalendar"
 }
