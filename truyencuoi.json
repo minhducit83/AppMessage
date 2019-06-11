@@ -1,6 +1,6 @@
 {
-	"package" : "com.skysoft.tuvi2019",
-	"message" : "Ứng dụng cho phép bạn xem vận mệnh cuộc sống của mình. Bạn có muốn dùng thử Tử vi 2019 ?",
-	"title" : "Tử vi trọn đời 2019",
-	"key" : "tuvi2019"
+	"package" : "com.skysoft.cotichvn",
+	"message" : "Ứng dụng mới với nhiều thể loại truyện ngắn, truyện dân gian, cổ tích, thần thoại hy lạp. Mời bạn dùng thử...",
+	"title" : "Tuyển tập truyện ngắn",
+	"key" : "cotichvn"
 }
